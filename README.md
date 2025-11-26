@@ -15,3 +15,9 @@ Oven.surf is a fast, minimal, and developer-friendly terminal designed to delive
 - 🌐 **Cross-platform** – Works on Windows, Mac, and Linux.  
 - 📦 **Nerd Font Support** – Full icon and glyph support for dev tools.  
 
+---
+
+## Installation
+
+### Windows
+Download the latest `.exe` from [GitHub Releases](https://github.com/castellaire/oven/releases/tag/Beta) and run the installer.
